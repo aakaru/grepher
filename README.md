@@ -1,6 +1,6 @@
 # 🔍 Grepher
 
-A simple and efficient implementation of the Unix `grep` command-line utility written in Go.
+An implementation of the Unix `grep` command-line utility written in Go.
 
 ## 📝 Overview
 
